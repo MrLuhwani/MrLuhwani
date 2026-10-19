@@ -10,7 +10,7 @@ Most of my projects are built with Java, but you might see a bit of Python here 
 
 Well... I haven't done a lot. I just build stuff to improve my skill level, and cuz I find coding fun. I'll update this section when I do something worthy enough to put up here.
 
-I have a few project repos you might like to check out. I pinned some of them, cuz those are the most impressive to me currently. Although the project I like the most currently is my (finance-ledger)[https://github.com/MrLuhwani/Finance-Ledger] project. Reason being, I built it from scratch, by myself, without prompting an AI every single time something went wrong. It taught me a lot about the basics of backend, I found it really fun to build, and I used it to track my spending in school for a while.
+I have a few project repos you might like to check out. I pinned some of them, cuz those are the most impressive to me currently. Although the project I like the most currently is my [finance-ledger](https://github.com/MrLuhwani/Finance-Ledger) project. Reason being, I built it from scratch, by myself, without prompting an AI every single time something went wrong. It taught me a lot about the basics of backend, I found it really fun to build, and I used it to track my spending in school for a while.
 
 ### Anything Else to Know? ⚡ 
 
